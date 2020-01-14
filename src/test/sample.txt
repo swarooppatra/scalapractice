@@ -1,0 +1,6 @@
+That said, bear in mind that neither vars nor side effects are inherently evil.
+Scala is not a pure functional language that forces you to program everything in the functional style.
+Scala is a hybrid imperative/functional language.
+You may find that in some situations an imperative style is a better fit for the problem at hand, and in such cases you should not hesitate to use it.
+To help you learn how to program without vars, however, we'll show you many specific examples of code with vars
+Odersky, Martin. Programming in Scala: A Comprehensive Step-by-Step Guide, Third Edition . Artima Press. Kindle Edition.
